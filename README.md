@@ -8,7 +8,7 @@ $$\alpha^k \mapsto \exp(2 \pi i k / (q-1))$$
 
 which is used in computing Brauer characters for representations over finite fields.
 
-If $q = p^r$, we label points on the unit circle with their corresponding vector representation over $F_q$ in terms of a monomial basis.
+If $q = p^r$, we label points on the unit circle with both their $\alpha^k$ representation and their corresponding vector representation over $F_q$ in terms of a monomial basis.
 
 That is, $F_q \cong F_p[x]/(f(x))$ where $f(x)$ is a suitable polynomial of degree $r$, usually a Conway polynomial.
 
